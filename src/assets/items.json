@@ -1,0 +1,64 @@
+[
+  {
+    "categoryId": "1",
+    "data": [
+      {
+        "id": "1",
+        "name": "coffee"
+      },
+      {
+        "id": "2",
+        "name": "Tee"
+      },
+      {
+        "id": "3",
+        "name": "Lemon"
+      },
+      {
+        "id": "4",
+        "name": "Shesha"
+      }
+    ]
+  },
+  {
+    "categoryId": "2",
+    "data": [
+      {
+        "id": "1",
+        "name": "Nuts"
+      },
+      {
+        "id": "2",
+        "name": "Fruits"
+      },
+      {
+        "id": "3",
+        "name": "Coffee"
+      },
+      {
+        "id": "4",
+        "name": "Give away"
+      }
+    ]
+  },{
+    "categoryId": "3",
+    "data": [
+      {
+        "id": "1",
+        "name": "SWVL"
+      },
+      {
+        "id": "2",
+        "name": "Scooter"
+      },
+      {
+        "id": "3",
+        "name": "Uber"
+      },
+      {
+        "id": "4",
+        "name": "Gas"
+      }
+    ]
+  }
+]
